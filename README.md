@@ -1,2 +1,2 @@
 # PythonBasics
-This Tutorial is to teach myself the basic ideas in python
+This Tutorial is to teach myself small basic things one can do in python
